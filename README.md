@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm some idiot who breaks things.
+I'm a collaborator on the ProdigyMathGameHacking repository.
 
-I can code in JavaScript, HTML, CSS, PHP, and C#. I've also expiremented with other languages, such as Python, Lua, Java, and others.
-
-I am mainly interested in cybersecurity and web development.
+I can code in JavaScript, HTML, CSS, PHP, and C#, and I've been into web development for about 3 years now.
 
 Reach me at the email listed on my profile (You'll have to be signed in to see it)
 
