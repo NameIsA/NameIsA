@@ -13,7 +13,7 @@ I'm SwxtchCode!
 
  I can code in JavaScript, HTML, CSS, PHP, and C#, and I've been into web development for about 3 years now.
  
- I break everything I touch, more or less :D
+ I commonly give opinions on things such as privacy, security, etc. I believe that cybercrime would be much less frequent if people took precuations for their own security.
 </details>
 
 <details>
