@@ -21,6 +21,6 @@ I'm SwxtchCode!
   
   | | Name | Account |
   | - | ------- | ----- |
-  | ✉ | *Email* | <a href="mailto:swxtchcode@protonmail.com">swxtchcode<AT>protonmail.com</a>
+  | ✉ | *Email* | <a href="mailto:swxtchcode@protonmail.com">swxtchcode[@}protonmail{.]com</a>
   | 🐭 | *Discord* | SwxtchCode#5482
 </details>
