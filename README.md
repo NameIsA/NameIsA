@@ -20,6 +20,6 @@ I'm NameIsA, and I 100% did not steal Natsumi's profile README style.
   
   | | Name | Account |
   | - | ------- | ----- |
-  | ✉ | *Email* | <a href="mailto:swxtchcode@protonmail.com">swxtchcode[@}protonmail{.]com</a>
+  | ✉ | *Email* | >swxtchcode@protonmail.com
   | 🐭 | *Discord* | ProbablyNotNarcissist#8295
 </details>
