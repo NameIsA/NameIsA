@@ -9,7 +9,7 @@ I'm NameIsA, and I 100% did not steal Natsumi's profile README style.
 <details>
   <summary>🌟 About</summary>
   
- I'm a collaborator on the ProdigyMathGameHacking repository.
+ I'm a former collaborator on the ProdigyMathGameHacking repository, and a moderator/developer of the Prodigy Math Game Wiki.
 
  I can code in JavaScript, HTML, CSS, PHP, and C#, and I've been into web development for about 3 (and almost 4!) years now.
  
