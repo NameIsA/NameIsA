@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm NameIsA, and I 100% did not steal Natsumi's profile README style.
+I'm ChickenOnYT, and I 100% did not steal Natsumi's profile README style.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NameIsA&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
