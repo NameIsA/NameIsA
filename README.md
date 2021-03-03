@@ -8,7 +8,7 @@ I'm ChickenOnYT, and I 100% did not steal Natsumi's profile README style.
 
 <details>
   <summary>🌟 About</summary>
-    I can code in JavaScript, HTML, CSS, PHP, and C#, and I've been into web development for about 4 years now. I make YouTube videos about Prodigy Math Game, and I've been helping ProdigyMathGameHacking for a while now.
+    I can code in JavaScript, HTML, CSS, PHP, and C#, and I've been into web development for about 4 years now. I make YouTube videos about Prodigy Math Game, and I've been helping ProdigyMathGameHacking for about a year.
  
 </details>
 
