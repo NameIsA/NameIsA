@@ -6,6 +6,8 @@ https://bit.ly/holyorange
 
 https://digitalteal.com
 
+[How to hack Prodigy](https://youtu.be/w6rFADL9-qg)
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ChickenOnYT&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenOnYT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
