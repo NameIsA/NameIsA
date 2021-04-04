@@ -23,6 +23,6 @@ https://digitalteal.com
   
   | | Name | Account |
   | - | ------- | ----- |
-  | 💬 | *Discord* | ChickenOnYT#8295
+  | 💬 | *Discord* | ChickenOnYT#0025
   | ✉ | *Email* | dck.dachickenking@gmail.com
 </details>
