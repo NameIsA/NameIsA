@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ChickenOnYT, and I 100% did not steal Natsumi's profile README style.
+I'm Connor... not much to say about me.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ChickenOnYT&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
